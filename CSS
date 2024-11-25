@@ -37,3 +37,58 @@
 					--theme-color-strict-inverse: #000000;
 				}
 			</style>
+      <style>
+					@keyframes page-transition {
+						0% {
+							opacity: 1;
+						}
+						100% {
+							opacity: 0;
+						}
+					}
+					body.landing-page-transition::after {
+						opacity: 1;
+						background: #ffffff;
+						animation: page-transition 2s 1s forwards;
+					}
+				</style>
+        <style>.icon-fire:before{content:"\e01c";}.fa-handshake-angle:before{content:"\f4c4";}.icon-science-008:before{content:"p";}.icon-music-062:before{content:"T";}.fa-delicious:before{content:"\f1a5";}</style>
+<style>.fa-whatsapp:before{content:"\f232";}.fa-telegram:before{content:"\f2c6";}.fa-vk:before{content:"\f189";}</style>
+<style>
+					body {
+						--landing-font-family: Raleway
+					}
+				</style>
+        <style>
+				body {
+					font-weight: 400;
+					font-family: Raleway;
+					-webkit-font-smoothing: antialiased;
+					-moz-osx-font-smoothing: grayscale;
+					-moz-font-feature-settings: "liga", "kern";
+					text-rendering: optimizelegibility;
+				}
+			</style>
+      <style>
+				h1, h2, h3, h4, h5, h6 {
+					font-family: Montserrat;
+				}
+			</style>
+<style>
+			html {font-size: 14px;}
+			body {font-size: 1.14286rem;}
+			.g-font-size-default {font-size: 1.14286rem;}
+		</style>
+<style>
+				main.landing-public-mode {
+					line-height: 1.6;
+					font-weight: 400;
+				}
+				
+				.landing-public-mode .h1, .landing-public-mode .h2, .landing-public-mode .h3, .landing-public-mode .h4, 
+				.landing-public-mode .h5, .landing-public-mode .h6, .landing-public-mode .h7,
+				.landing-public-mode h1, .landing-public-mode h2, .landing-public-mode h3, .landing-public-mode h4, 
+				.landing-public-mode h5, .landing-public-mode h6 {
+					font-weight: 600;
+				}
+			</style>
