@@ -250,7 +250,7 @@ button {
 /* Home Section */
 .home-section {
   min-height: 100vh;
-  background-image: url('../images/home-bg.jpg');
+  background-image: url('https://avatars.mds.yandex.net/i?id=88d03750b22c807378e9159a2e6587480bbab03c-8497159-images-thumbs&n=13');
   background-size: cover;
   background-position: center;
   position: relative;
