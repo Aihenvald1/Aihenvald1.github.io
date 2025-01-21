@@ -15,7 +15,14 @@ $(document).ready(function () {
   $(window).on("load", function () {
     $(".preloader").addClass("loader")
   })
+let regex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+let mail = "test@example.com";
 
+if (regex.test(mail)) {
+    console.log("Valid email address");
+} else {
+    console.log("Invalid email address");
+}
   // nav toggle
   $(".nav-toggle").click(function () {
     $(".header .nav").slideToggle()
