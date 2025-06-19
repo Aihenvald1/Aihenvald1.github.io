@@ -14,12 +14,12 @@
 Клонируйте репозиторий:
 
 bash
-git clone https://github.com/aihenvald1/portfolio-landing.git
-Установите зависимости:
+git clone (https://github.com/Aihenvald1/Aihenvald1.github.io)
+
 
 bash
 npm install
-Запустите dev-сервер:
+
 
 bash
 npm run dev
