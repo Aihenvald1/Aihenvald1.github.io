@@ -1,6 +1,6 @@
 # 🌐 Landing Page: Aihenvald1 — Web Developer Portfolio
 
-🚀 **Live Demo:** [aihenvald1.dev](https://aihenvald1.dev)  
+🚀 **Live Demo:** [aihenvald1.dev](https://aihenvald1.github.io)  
 📌 **Цель:** Презентация моих навыков и проектов для потенциальных клиентов/работодателей
 
 ## ✨ Особенности
