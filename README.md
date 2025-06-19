@@ -30,9 +30,7 @@ text
 ├── sections/    # Блоки лендинга (Hero, Projects, Contacts)
 ├── styles/      # Глобальные стили (SCSS/Tailwind)
 └── assets/      # Изображения, иконки, шрифты
-📊 Производительность
-https://img.shields.io/badge/Lighthouse-98-green
-https://img.shields.io/badge/Bundle-45kB-blue
+
 
 
 🌟 Почему этот проект?
